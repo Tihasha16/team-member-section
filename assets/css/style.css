@@ -1,0 +1,34 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: candara;
+}
+
+.team {
+	background-color: black;
+	width: 33.33%;
+	padding: 30px 0px;
+	float: left;
+}
+
+.team img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	display: block;
+	margin: 0px auto ;
+}
+
+.team h2 {
+	text-align: center;
+	font-family: sigmar one;
+	color: white;
+	font-weight: normal;
+}
+
+.team p {
+	text-align: center;
+	width: 67%;
+	margin:0px auto;
+	color: yellow;
+}
